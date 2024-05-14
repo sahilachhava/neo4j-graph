@@ -1,0 +1,6225 @@
+[
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_prog_obra_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_avion_secu_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_vers_cliente_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_vers_cliente_sec_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_avion_ser_cliente_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_serie_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_vers_cliente_desig_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_fecha_prev_term_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_fecha_min_compra_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_avion_10",
+        "data_type": "text",
+        "ordinal_position": 10
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "blank_11",
+        "data_type": "text",
+        "ordinal_position": 11
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "blank_12",
+        "data_type": "text",
+        "ordinal_position": 12
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_estado_el_final_13",
+        "data_type": "text",
+        "ordinal_position": 13
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_num_ordencliente_14",
+        "data_type": "text",
+        "ordinal_position": 14
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "a0_15",
+        "data_type": "text",
+        "ordinal_position": 15
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_fecha_min_fabric_16",
+        "data_type": "text",
+        "ordinal_position": 16
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_factory_17",
+        "data_type": "text",
+        "ordinal_position": 17
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_indice_avion_sec_18",
+        "data_type": "text",
+        "ordinal_position": 18
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "z1_standar_ai_19",
+        "data_type": "text",
+        "ordinal_position": 19
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "aviones",
+        "column_name": "blank_20",
+        "data_type": "text",
+        "ordinal_position": 20
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "chgorkey_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "cr_seq_nbr_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "cr_comentario_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "cr_tipo_ef_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "cr_prog_mod_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "cr_version_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "cr_secuencia_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "cr_sechasta_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "cr_prog_10",
+        "data_type": "text",
+        "ordinal_position": 10
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_11",
+        "data_type": "text",
+        "ordinal_position": 11
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_12",
+        "data_type": "text",
+        "ordinal_position": 12
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_13",
+        "data_type": "text",
+        "ordinal_position": 13
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_14",
+        "data_type": "text",
+        "ordinal_position": 14
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_15",
+        "data_type": "text",
+        "ordinal_position": 15
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_16",
+        "data_type": "text",
+        "ordinal_position": 16
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_17",
+        "data_type": "text",
+        "ordinal_position": 17
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_18",
+        "data_type": "text",
+        "ordinal_position": 18
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_19",
+        "data_type": "text",
+        "ordinal_position": 19
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_20",
+        "data_type": "text",
+        "ordinal_position": 20
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_21",
+        "data_type": "text",
+        "ordinal_position": 21
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_22",
+        "data_type": "text",
+        "ordinal_position": 22
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_23",
+        "data_type": "text",
+        "ordinal_position": 23
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_24",
+        "data_type": "text",
+        "ordinal_position": 24
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_25",
+        "data_type": "text",
+        "ordinal_position": 25
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_26",
+        "data_type": "text",
+        "ordinal_position": 26
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_27",
+        "data_type": "text",
+        "ordinal_position": 27
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_28",
+        "data_type": "text",
+        "ordinal_position": 28
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_29",
+        "data_type": "text",
+        "ordinal_position": 29
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_30",
+        "data_type": "text",
+        "ordinal_position": 30
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "a0_31",
+        "data_type": "text",
+        "ordinal_position": 31
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cocom",
+        "column_name": "blank_32",
+        "data_type": "text",
+        "ordinal_position": 32
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "chgorkey_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_type_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_description_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_originator_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_origination_date_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_class_code_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_reason_code_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_severity_code_10",
+        "data_type": "text",
+        "ordinal_position": 10
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_11",
+        "data_type": "text",
+        "ordinal_position": 11
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_12",
+        "data_type": "text",
+        "ordinal_position": 12
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_13",
+        "data_type": "text",
+        "ordinal_position": 13
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_consolidating_ind_14",
+        "data_type": "text",
+        "ordinal_position": 14
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_planned_eff_date_15",
+        "data_type": "text",
+        "ordinal_position": 15
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_planned_eff_serial_nbr_16",
+        "data_type": "text",
+        "ordinal_position": 16
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_17",
+        "data_type": "text",
+        "ordinal_position": 17
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_18",
+        "data_type": "text",
+        "ordinal_position": 18
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_mod_incorporacion_19",
+        "data_type": "text",
+        "ordinal_position": 19
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_ind_pm_asociados_20",
+        "data_type": "text",
+        "ordinal_position": 20
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_21",
+        "data_type": "text",
+        "ordinal_position": 21
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_indice_rev_mod_22",
+        "data_type": "text",
+        "ordinal_position": 22
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_23",
+        "data_type": "text",
+        "ordinal_position": 23
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_24",
+        "data_type": "text",
+        "ordinal_position": 24
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_25",
+        "data_type": "text",
+        "ordinal_position": 25
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_26",
+        "data_type": "text",
+        "ordinal_position": 26
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_27",
+        "data_type": "text",
+        "ordinal_position": 27
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_statusind_28",
+        "data_type": "text",
+        "ordinal_position": 28
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_actual_rlse_to_design_date_29",
+        "data_type": "text",
+        "ordinal_position": 29
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_target_rlse_to_design_date_30",
+        "data_type": "text",
+        "ordinal_position": 30
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_actual_assign_to_cm_date_31",
+        "data_type": "text",
+        "ordinal_position": 31
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_target_assign_to_cm_date_32",
+        "data_type": "text",
+        "ordinal_position": 32
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_actual_rlse_for_appr_date_33",
+        "data_type": "text",
+        "ordinal_position": 33
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_target_rlse_for_appr_date_34",
+        "data_type": "text",
+        "ordinal_position": 34
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_actual_approval_date_35",
+        "data_type": "text",
+        "ordinal_position": 35
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_target_approval_date_36",
+        "data_type": "text",
+        "ordinal_position": 36
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_actual_incorp_date_37",
+        "data_type": "text",
+        "ordinal_position": 37
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_target_incorp_date_38",
+        "data_type": "text",
+        "ordinal_position": 38
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_39",
+        "data_type": "text",
+        "ordinal_position": 39
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_40",
+        "data_type": "text",
+        "ordinal_position": 40
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_41",
+        "data_type": "text",
+        "ordinal_position": 41
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_42",
+        "data_type": "text",
+        "ordinal_position": 42
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_disposition_code_43",
+        "data_type": "text",
+        "ordinal_position": 43
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_44",
+        "data_type": "text",
+        "ordinal_position": 44
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_prog_45",
+        "data_type": "text",
+        "ordinal_position": 45
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_elem_final_46",
+        "data_type": "text",
+        "ordinal_position": 46
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_nec_term_47",
+        "data_type": "text",
+        "ordinal_position": 47
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_ind_coste_mod_48",
+        "data_type": "text",
+        "ordinal_position": 48
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_coste_estim_mod_49",
+        "data_type": "text",
+        "ordinal_position": 49
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "a0_50",
+        "data_type": "text",
+        "ordinal_position": 50
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_accion_tomada_51",
+        "data_type": "text",
+        "ordinal_position": 51
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_lanzam_tot_52",
+        "data_type": "text",
+        "ordinal_position": 52
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_lanzam_cumpl_53",
+        "data_type": "text",
+        "ordinal_position": 53
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_ing_prev_54",
+        "data_type": "text",
+        "ordinal_position": 54
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_ing_real_55",
+        "data_type": "text",
+        "ordinal_position": 55
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_oct_prev_56",
+        "data_type": "text",
+        "ordinal_position": 56
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_oct_real_57",
+        "data_type": "text",
+        "ordinal_position": 57
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_term_prev_58",
+        "data_type": "text",
+        "ordinal_position": 58
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_term_real_59",
+        "data_type": "text",
+        "ordinal_position": 59
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_60",
+        "data_type": "text",
+        "ordinal_position": 60
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_61",
+        "data_type": "text",
+        "ordinal_position": 61
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_62",
+        "data_type": "text",
+        "ordinal_position": 62
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_63",
+        "data_type": "text",
+        "ordinal_position": 63
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_64",
+        "data_type": "text",
+        "ordinal_position": 64
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_65",
+        "data_type": "text",
+        "ordinal_position": 65
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_66",
+        "data_type": "text",
+        "ordinal_position": 66
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_67",
+        "data_type": "text",
+        "ordinal_position": 67
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_ind_avance_fab_68",
+        "data_type": "text",
+        "ordinal_position": 68
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_69",
+        "data_type": "text",
+        "ordinal_position": 69
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_incorp_con_ef_70",
+        "data_type": "text",
+        "ordinal_position": 70
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_71",
+        "data_type": "text",
+        "ordinal_position": 71
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_afecta_cadiz_72",
+        "data_type": "text",
+        "ordinal_position": 72
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_afecta_getafe_73",
+        "data_type": "text",
+        "ordinal_position": 73
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_afecta_sanpablo_74",
+        "data_type": "text",
+        "ordinal_position": 74
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_afecta_tablada_75",
+        "data_type": "text",
+        "ordinal_position": 75
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_afecta_proyectos_76",
+        "data_type": "text",
+        "ordinal_position": 76
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_77",
+        "data_type": "text",
+        "ordinal_position": 77
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_factoria_resp_78",
+        "data_type": "text",
+        "ordinal_position": 78
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_79",
+        "data_type": "text",
+        "ordinal_position": 79
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_80",
+        "data_type": "text",
+        "ordinal_position": 80
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_comit_aprob_81",
+        "data_type": "text",
+        "ordinal_position": 81
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_comite_82",
+        "data_type": "text",
+        "ordinal_position": 82
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_83",
+        "data_type": "text",
+        "ordinal_position": 83
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_inicio_fab_84",
+        "data_type": "text",
+        "ordinal_position": 84
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_count_rev_no_incorp_85",
+        "data_type": "text",
+        "ordinal_position": 85
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_86",
+        "data_type": "text",
+        "ordinal_position": 86
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_tipo_eff_confg_87",
+        "data_type": "text",
+        "ordinal_position": 87
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_varias_eff_conf_ind_88",
+        "data_type": "text",
+        "ordinal_position": 88
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_version_89",
+        "data_type": "text",
+        "ordinal_position": 89
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_tipo_eff_fabr_90",
+        "data_type": "text",
+        "ordinal_position": 90
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_varias_eff_fabr_ind_91",
+        "data_type": "text",
+        "ordinal_position": 91
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_modulo_92",
+        "data_type": "text",
+        "ordinal_position": 92
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_plan_eff_ser_nbr_fabr_93",
+        "data_type": "text",
+        "ordinal_position": 93
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_division_centro_94",
+        "data_type": "text",
+        "ordinal_position": 94
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_secuencia_version_95",
+        "data_type": "text",
+        "ordinal_position": 95
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_bol_serv_96",
+        "data_type": "text",
+        "ordinal_position": 96
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_97",
+        "data_type": "text",
+        "ordinal_position": 97
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_coste_rec_98",
+        "data_type": "text",
+        "ordinal_position": 98
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_fecha_ult_intercam_99",
+        "data_type": "text",
+        "ordinal_position": 99
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_100",
+        "data_type": "text",
+        "ordinal_position": 100
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_eff_ant_101",
+        "data_type": "text",
+        "ordinal_position": 101
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_estd_2a_prev_102",
+        "data_type": "text",
+        "ordinal_position": 102
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_103",
+        "data_type": "text",
+        "ordinal_position": 103
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_estd_2a_real_104",
+        "data_type": "text",
+        "ordinal_position": 104
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_req_estd_2_105",
+        "data_type": "text",
+        "ordinal_position": 105
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_req_estd_a_106",
+        "data_type": "text",
+        "ordinal_position": 106
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_adm_tot_107",
+        "data_type": "text",
+        "ordinal_position": 107
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_adm_term_108",
+        "data_type": "text",
+        "ordinal_position": 108
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_origin_109",
+        "data_type": "text",
+        "ordinal_position": 109
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "co_afectacion_110",
+        "data_type": "text",
+        "ordinal_position": 110
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_111",
+        "data_type": "text",
+        "ordinal_position": 111
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "comast",
+        "column_name": "blank_112",
+        "data_type": "text",
+        "ordinal_position": 112
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_lp_concat_key_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_assy_part_nbr_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_line_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_comp_part_nbr_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_comp_type_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_comp_usage_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_qty_per_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_qty_type_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_decimal_code_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_opt_pct_10",
+        "data_type": "text",
+        "ordinal_position": 10
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_revision_in_11",
+        "data_type": "text",
+        "ordinal_position": 11
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_effect_date_in_12",
+        "data_type": "text",
+        "ordinal_position": 12
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_pend_rev_in_13",
+        "data_type": "text",
+        "ordinal_position": 13
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_approval_date_in_14",
+        "data_type": "text",
+        "ordinal_position": 14
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_last_inc_rev_15",
+        "data_type": "text",
+        "ordinal_position": 15
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_inc_rev_date_io_16",
+        "data_type": "text",
+        "ordinal_position": 16
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_revision_out_17",
+        "data_type": "text",
+        "ordinal_position": 17
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_effect_date_out_18",
+        "data_type": "text",
+        "ordinal_position": 18
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_pend_rev_out_19",
+        "data_type": "text",
+        "ordinal_position": 19
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_approval_date_out_20",
+        "data_type": "text",
+        "ordinal_position": 20
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_de_date_21",
+        "data_type": "text",
+        "ordinal_position": 21
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_low_level_code_22",
+        "data_type": "text",
+        "ordinal_position": 22
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_revision_type_in_23",
+        "data_type": "text",
+        "ordinal_position": 23
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_effect_serial_nbr_in_24",
+        "data_type": "text",
+        "ordinal_position": 24
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_revision_type_out_25",
+        "data_type": "text",
+        "ordinal_position": 25
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_effect_serial_nbr_out_26",
+        "data_type": "text",
+        "ordinal_position": 26
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_ecs_count_27",
+        "data_type": "text",
+        "ordinal_position": 27
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_alt_grp_code_28",
+        "data_type": "text",
+        "ordinal_position": 28
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_alt_pref_code_29",
+        "data_type": "text",
+        "ordinal_position": 29
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_pos_en_plano_30",
+        "data_type": "text",
+        "ordinal_position": 30
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_num_item_31",
+        "data_type": "text",
+        "ordinal_position": 31
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_ind_except_32",
+        "data_type": "text",
+        "ordinal_position": 32
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_ac_distintivo_33",
+        "data_type": "text",
+        "ordinal_position": 33
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_prog_obra_in_34",
+        "data_type": "text",
+        "ordinal_position": 34
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "filler_35",
+        "data_type": "text",
+        "ordinal_position": 35
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_prog_obra_out_36",
+        "data_type": "text",
+        "ordinal_position": 36
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_nom_modulo_in_37",
+        "data_type": "text",
+        "ordinal_position": 37
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_nom_modulo_out_38",
+        "data_type": "text",
+        "ordinal_position": 38
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_modif_in_39",
+        "data_type": "text",
+        "ordinal_position": 39
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_modif_out_40",
+        "data_type": "text",
+        "ordinal_position": 40
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_dimensiones_41",
+        "data_type": "text",
+        "ordinal_position": 41
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_str_repl_supr_ind_42",
+        "data_type": "text",
+        "ordinal_position": 42
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_comp_alternativo_43",
+        "data_type": "text",
+        "ordinal_position": 43
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "filler_44",
+        "data_type": "text",
+        "ordinal_position": 44
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_incorpor_date_in_45",
+        "data_type": "text",
+        "ordinal_position": 45
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "cg_incorpor_date_out_46",
+        "data_type": "text",
+        "ordinal_position": 46
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "ws_cg_line_47",
+        "data_type": "text",
+        "ordinal_position": 47
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "ws_cg_comp_part_nbr_48",
+        "data_type": "text",
+        "ordinal_position": 48
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "ws_cg_assy_part_nbr_49",
+        "data_type": "text",
+        "ordinal_position": 49
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "ws_cg_line_50",
+        "data_type": "text",
+        "ordinal_position": 50
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "config",
+        "column_name": "filler_51",
+        "data_type": "text",
+        "ordinal_position": 51
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_part_nbr_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_revision_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_seq_nbr_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_comentario_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_preparado_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_diseno_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_calculo_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_analisis_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_masas_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_verifica_10",
+        "data_type": "text",
+        "ordinal_position": 10
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "cx_checked_11",
+        "data_type": "text",
+        "ordinal_position": 11
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "cxcomt",
+        "column_name": "filler_12",
+        "data_type": "text",
+        "ordinal_position": 12
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_assy_part_nbr_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_line_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_comp_part_nbr_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_vers_cliente_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_sec_efect_in_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_revision_in_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_pend_rev_in_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_modific_in_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_incorpor_date_in_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_sec_efect_out_10",
+        "data_type": "text",
+        "ordinal_position": 10
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_revision_out_11",
+        "data_type": "text",
+        "ordinal_position": 11
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_pend_rev_out_12",
+        "data_type": "text",
+        "ordinal_position": 12
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_modific_out_13",
+        "data_type": "text",
+        "ordinal_position": 13
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_incorpor_date_out_14",
+        "data_type": "text",
+        "ordinal_position": 14
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_mod_lpi_in_15",
+        "data_type": "text",
+        "ordinal_position": 15
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "ev_mod_lpi_out_16",
+        "data_type": "text",
+        "ordinal_position": 16
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "efvers",
+        "column_name": "filler_17",
+        "data_type": "text",
+        "ordinal_position": 17
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_key_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_conbr_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_conbr_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_partnbr_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_revision_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_effdate_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_reasoncode_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_severitycode_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_approval_date_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_approval_date_10",
+        "data_type": "text",
+        "ordinal_position": 10
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_de_date_11",
+        "data_type": "text",
+        "ordinal_position": 11
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "blank_12",
+        "data_type": "text",
+        "ordinal_position": 12
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "blank_13",
+        "data_type": "text",
+        "ordinal_position": 13
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_indice_14",
+        "data_type": "text",
+        "ordinal_position": 14
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ecn_15",
+        "data_type": "text",
+        "ordinal_position": 15
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_fec_lanz_plano_16",
+        "data_type": "text",
+        "ordinal_position": 16
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_cod_incorp_17",
+        "data_type": "text",
+        "ordinal_position": 17
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_afectacion_18",
+        "data_type": "text",
+        "ordinal_position": 18
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_eff_serial_nbr_19",
+        "data_type": "text",
+        "ordinal_position": 19
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_planner_20",
+        "data_type": "text",
+        "ordinal_position": 20
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_eff_code_21",
+        "data_type": "text",
+        "ordinal_position": 21
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_lanzam_22",
+        "data_type": "text",
+        "ordinal_position": 22
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_prog_23",
+        "data_type": "text",
+        "ordinal_position": 23
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "blank_24",
+        "data_type": "text",
+        "ordinal_position": 24
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "blank_25",
+        "data_type": "text",
+        "ordinal_position": 25
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "blank_26",
+        "data_type": "text",
+        "ordinal_position": 26
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "blank_27",
+        "data_type": "text",
+        "ordinal_position": 27
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "blank_28",
+        "data_type": "text",
+        "ordinal_position": 28
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "blank_29",
+        "data_type": "text",
+        "ordinal_position": 29
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_1_30",
+        "data_type": "text",
+        "ordinal_position": 30
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_2_31",
+        "data_type": "text",
+        "ordinal_position": 31
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_3_32",
+        "data_type": "text",
+        "ordinal_position": 32
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_4_33",
+        "data_type": "text",
+        "ordinal_position": 33
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_5_34",
+        "data_type": "text",
+        "ordinal_position": 34
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_6_35",
+        "data_type": "text",
+        "ordinal_position": 35
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_7_36",
+        "data_type": "text",
+        "ordinal_position": 36
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_8_37",
+        "data_type": "text",
+        "ordinal_position": 37
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_9_38",
+        "data_type": "text",
+        "ordinal_position": 38
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_10_39",
+        "data_type": "text",
+        "ordinal_position": 39
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_11_40",
+        "data_type": "text",
+        "ordinal_position": 40
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_12_41",
+        "data_type": "text",
+        "ordinal_position": 41
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_13_42",
+        "data_type": "text",
+        "ordinal_position": 42
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_14_43",
+        "data_type": "text",
+        "ordinal_position": 43
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_15_44",
+        "data_type": "text",
+        "ordinal_position": 44
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_16_45",
+        "data_type": "text",
+        "ordinal_position": 45
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_17_46",
+        "data_type": "text",
+        "ordinal_position": 46
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_18_47",
+        "data_type": "text",
+        "ordinal_position": 47
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_19_48",
+        "data_type": "text",
+        "ordinal_position": 48
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_20_49",
+        "data_type": "text",
+        "ordinal_position": 49
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_21_50",
+        "data_type": "text",
+        "ordinal_position": 50
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_22_51",
+        "data_type": "text",
+        "ordinal_position": 51
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_23_52",
+        "data_type": "text",
+        "ordinal_position": 52
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_24_53",
+        "data_type": "text",
+        "ordinal_position": 53
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_25_54",
+        "data_type": "text",
+        "ordinal_position": 54
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_26_55",
+        "data_type": "text",
+        "ordinal_position": 55
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_27_56",
+        "data_type": "text",
+        "ordinal_position": 56
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_28_57",
+        "data_type": "text",
+        "ordinal_position": 57
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_29_58",
+        "data_type": "text",
+        "ordinal_position": 58
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_30_59",
+        "data_type": "text",
+        "ordinal_position": 59
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_31_60",
+        "data_type": "text",
+        "ordinal_position": 60
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_32_61",
+        "data_type": "text",
+        "ordinal_position": 61
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_33_62",
+        "data_type": "text",
+        "ordinal_position": 62
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_34_63",
+        "data_type": "text",
+        "ordinal_position": 63
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_35_64",
+        "data_type": "text",
+        "ordinal_position": 64
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_36_65",
+        "data_type": "text",
+        "ordinal_position": 65
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_37_66",
+        "data_type": "text",
+        "ordinal_position": 66
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_38_67",
+        "data_type": "text",
+        "ordinal_position": 67
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_39_68",
+        "data_type": "text",
+        "ordinal_position": 68
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_40_69",
+        "data_type": "text",
+        "ordinal_position": 69
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_41_70",
+        "data_type": "text",
+        "ordinal_position": 70
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_42_71",
+        "data_type": "text",
+        "ordinal_position": 71
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_43_72",
+        "data_type": "text",
+        "ordinal_position": 72
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_44_73",
+        "data_type": "text",
+        "ordinal_position": 73
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_45_74",
+        "data_type": "text",
+        "ordinal_position": 74
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_46_75",
+        "data_type": "text",
+        "ordinal_position": 75
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_47_76",
+        "data_type": "text",
+        "ordinal_position": 76
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_48_77",
+        "data_type": "text",
+        "ordinal_position": 77
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_49_78",
+        "data_type": "text",
+        "ordinal_position": 78
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_50_79",
+        "data_type": "text",
+        "ordinal_position": 79
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_51_80",
+        "data_type": "text",
+        "ordinal_position": 80
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_52_81",
+        "data_type": "text",
+        "ordinal_position": 81
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_53_82",
+        "data_type": "text",
+        "ordinal_position": 82
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_54_83",
+        "data_type": "text",
+        "ordinal_position": 83
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_55_84",
+        "data_type": "text",
+        "ordinal_position": 84
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_56_85",
+        "data_type": "text",
+        "ordinal_position": 85
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_57_86",
+        "data_type": "text",
+        "ordinal_position": 86
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_58_87",
+        "data_type": "text",
+        "ordinal_position": 87
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_59_88",
+        "data_type": "text",
+        "ordinal_position": 88
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_60_89",
+        "data_type": "text",
+        "ordinal_position": 89
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_61_90",
+        "data_type": "text",
+        "ordinal_position": 90
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_62_91",
+        "data_type": "text",
+        "ordinal_position": 91
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_63_92",
+        "data_type": "text",
+        "ordinal_position": 92
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_64_93",
+        "data_type": "text",
+        "ordinal_position": 93
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_65_94",
+        "data_type": "text",
+        "ordinal_position": 94
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_66_95",
+        "data_type": "text",
+        "ordinal_position": 95
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_67_96",
+        "data_type": "text",
+        "ordinal_position": 96
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_68_97",
+        "data_type": "text",
+        "ordinal_position": 97
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_69_98",
+        "data_type": "text",
+        "ordinal_position": 98
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_70_99",
+        "data_type": "text",
+        "ordinal_position": 99
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_71_100",
+        "data_type": "text",
+        "ordinal_position": 100
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_72_101",
+        "data_type": "text",
+        "ordinal_position": 101
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_73_102",
+        "data_type": "text",
+        "ordinal_position": 102
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_74_103",
+        "data_type": "text",
+        "ordinal_position": 103
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_75_104",
+        "data_type": "text",
+        "ordinal_position": 104
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_76_105",
+        "data_type": "text",
+        "ordinal_position": 105
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_77_106",
+        "data_type": "text",
+        "ordinal_position": 106
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_78_107",
+        "data_type": "text",
+        "ordinal_position": 107
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_79_108",
+        "data_type": "text",
+        "ordinal_position": 108
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_80_109",
+        "data_type": "text",
+        "ordinal_position": 109
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_81_110",
+        "data_type": "text",
+        "ordinal_position": 110
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_82_111",
+        "data_type": "text",
+        "ordinal_position": 111
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_83_112",
+        "data_type": "text",
+        "ordinal_position": 112
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_84_113",
+        "data_type": "text",
+        "ordinal_position": 113
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_85_114",
+        "data_type": "text",
+        "ordinal_position": 114
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_86_115",
+        "data_type": "text",
+        "ordinal_position": 115
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_87_116",
+        "data_type": "text",
+        "ordinal_position": 116
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_88_117",
+        "data_type": "text",
+        "ordinal_position": 117
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_89_118",
+        "data_type": "text",
+        "ordinal_position": 118
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "ehmast",
+        "column_name": "eh_ind_hojas_90_119",
+        "data_type": "text",
+        "ordinal_position": 119
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "partkey_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_rec_code_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_part_type_code_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_part_class_code_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_part_status_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_doc_type_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_doc_status_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_issue_unit_meas_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_part_desc_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_part_desc_2_10",
+        "data_type": "text",
+        "ordinal_position": 10
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_unit_weight_11",
+        "data_type": "text",
+        "ordinal_position": 11
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ult_ind_parte_12",
+        "data_type": "text",
+        "ordinal_position": 12
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_se_trata_en_optegra_13",
+        "data_type": "text",
+        "ordinal_position": 13
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_14",
+        "data_type": "text",
+        "ordinal_position": 14
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_commodity_code_15",
+        "data_type": "text",
+        "ordinal_position": 15
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_design_source_16",
+        "data_type": "text",
+        "ordinal_position": 16
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_drawing_nbr_17",
+        "data_type": "text",
+        "ordinal_position": 17
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_nbr_of_pages_18",
+        "data_type": "text",
+        "ordinal_position": 18
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_computer_manual_19",
+        "data_type": "text",
+        "ordinal_position": 19
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_20",
+        "data_type": "text",
+        "ordinal_position": 20
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ec_revision_eng_21",
+        "data_type": "text",
+        "ordinal_position": 21
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_eng_rev_date_22",
+        "data_type": "text",
+        "ordinal_position": 22
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_eco_nbr_eng_23",
+        "data_type": "text",
+        "ordinal_position": 23
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ec_revision_mfg_24",
+        "data_type": "text",
+        "ordinal_position": 24
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mfg_rev_date_25",
+        "data_type": "text",
+        "ordinal_position": 25
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_eco_nbr_eng_26",
+        "data_type": "text",
+        "ordinal_position": 26
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_added_rev_27",
+        "data_type": "text",
+        "ordinal_position": 27
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_added_rev_date_28",
+        "data_type": "text",
+        "ordinal_position": 28
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_added_pending_rev_29",
+        "data_type": "text",
+        "ordinal_position": 29
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_app_rev_30",
+        "data_type": "text",
+        "ordinal_position": 30
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_app_rev_date_31",
+        "data_type": "text",
+        "ordinal_position": 31
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_app_co_32",
+        "data_type": "text",
+        "ordinal_position": 32
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_inc_rev_33",
+        "data_type": "text",
+        "ordinal_position": 33
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_inc_rev_date_34",
+        "data_type": "text",
+        "ordinal_position": 34
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_35",
+        "data_type": "text",
+        "ordinal_position": 35
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_proprietary_code_36",
+        "data_type": "text",
+        "ordinal_position": 36
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_security_37",
+        "data_type": "text",
+        "ordinal_position": 37
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_low_level_code_38",
+        "data_type": "text",
+        "ordinal_position": 38
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_low_level_code_39",
+        "data_type": "text",
+        "ordinal_position": 39
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_40",
+        "data_type": "text",
+        "ordinal_position": 40
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_de_date_41",
+        "data_type": "text",
+        "ordinal_position": 41
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_42",
+        "data_type": "text",
+        "ordinal_position": 42
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_43",
+        "data_type": "text",
+        "ordinal_position": 43
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_44",
+        "data_type": "text",
+        "ordinal_position": 44
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_45",
+        "data_type": "text",
+        "ordinal_position": 45
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_46",
+        "data_type": "text",
+        "ordinal_position": 46
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_47",
+        "data_type": "text",
+        "ordinal_position": 47
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_48",
+        "data_type": "text",
+        "ordinal_position": 48
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_eff_cntl_code_49",
+        "data_type": "text",
+        "ordinal_position": 49
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_highest_alt_grp_code_ps_50",
+        "data_type": "text",
+        "ordinal_position": 50
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_51",
+        "data_type": "text",
+        "ordinal_position": 51
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_next_serial_nbr_52",
+        "data_type": "text",
+        "ordinal_position": 52
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cost_ctl_code_53",
+        "data_type": "text",
+        "ordinal_position": 53
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cost_type_54",
+        "data_type": "text",
+        "ordinal_position": 54
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_55",
+        "data_type": "text",
+        "ordinal_position": 55
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_56",
+        "data_type": "text",
+        "ordinal_position": 56
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_57",
+        "data_type": "text",
+        "ordinal_position": 57
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_58",
+        "data_type": "text",
+        "ordinal_position": 58
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_59",
+        "data_type": "text",
+        "ordinal_position": 59
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_60",
+        "data_type": "text",
+        "ordinal_position": 60
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_61",
+        "data_type": "text",
+        "ordinal_position": 61
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_62",
+        "data_type": "text",
+        "ordinal_position": 62
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_63",
+        "data_type": "text",
+        "ordinal_position": 63
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_64",
+        "data_type": "text",
+        "ordinal_position": 64
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_65",
+        "data_type": "text",
+        "ordinal_position": 65
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_66",
+        "data_type": "text",
+        "ordinal_position": 66
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_67",
+        "data_type": "text",
+        "ordinal_position": 67
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_68",
+        "data_type": "text",
+        "ordinal_position": 68
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_69",
+        "data_type": "text",
+        "ordinal_position": 69
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_70",
+        "data_type": "text",
+        "ordinal_position": 70
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_71",
+        "data_type": "text",
+        "ordinal_position": 71
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_72",
+        "data_type": "text",
+        "ordinal_position": 72
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_73",
+        "data_type": "text",
+        "ordinal_position": 73
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_74",
+        "data_type": "text",
+        "ordinal_position": 74
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_75",
+        "data_type": "text",
+        "ordinal_position": 75
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_76",
+        "data_type": "text",
+        "ordinal_position": 76
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_77",
+        "data_type": "text",
+        "ordinal_position": 77
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_78",
+        "data_type": "text",
+        "ordinal_position": 78
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_79",
+        "data_type": "text",
+        "ordinal_position": 79
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_80",
+        "data_type": "text",
+        "ordinal_position": 80
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_81",
+        "data_type": "text",
+        "ordinal_position": 81
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cost_ovr_code_82",
+        "data_type": "text",
+        "ordinal_position": 82
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_83",
+        "data_type": "text",
+        "ordinal_position": 83
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_planner_84",
+        "data_type": "text",
+        "ordinal_position": 84
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_85",
+        "data_type": "text",
+        "ordinal_position": 85
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_86",
+        "data_type": "text",
+        "ordinal_position": 86
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_make_buy_code_87",
+        "data_type": "text",
+        "ordinal_position": 87
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_dem_ctl_code_88",
+        "data_type": "text",
+        "ordinal_position": 88
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_issue_ctl_code_89",
+        "data_type": "text",
+        "ordinal_position": 89
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_rp_demand_policy_90",
+        "data_type": "text",
+        "ordinal_position": 90
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pri_loc_91",
+        "data_type": "text",
+        "ordinal_position": 91
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cycle_count_int_92",
+        "data_type": "text",
+        "ordinal_position": 92
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cycle_count_date_93",
+        "data_type": "text",
+        "ordinal_position": 93
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_abc_class_code_94",
+        "data_type": "text",
+        "ordinal_position": 94
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_95",
+        "data_type": "text",
+        "ordinal_position": 95
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_96",
+        "data_type": "text",
+        "ordinal_position": 96
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ic_anal_date_97",
+        "data_type": "text",
+        "ordinal_position": 97
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_98",
+        "data_type": "text",
+        "ordinal_position": 98
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_99",
+        "data_type": "text",
+        "ordinal_position": 99
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_100",
+        "data_type": "text",
+        "ordinal_position": 100
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ord_pol_code_101",
+        "data_type": "text",
+        "ordinal_position": 101
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_safe_stk_pol_102",
+        "data_type": "text",
+        "ordinal_position": 102
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_safe_stk_qty_103",
+        "data_type": "text",
+        "ordinal_position": 103
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_safe_factor_pct_104",
+        "data_type": "text",
+        "ordinal_position": 104
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_105",
+        "data_type": "text",
+        "ordinal_position": 105
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_min_ord_qty_106",
+        "data_type": "text",
+        "ordinal_position": 106
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_max_ord_qty_107",
+        "data_type": "text",
+        "ordinal_position": 107
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mult_ord_qty_108",
+        "data_type": "text",
+        "ordinal_position": 108
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_min_ord_qty_mod_109",
+        "data_type": "text",
+        "ordinal_position": 109
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_max_ord_qty_mod_110",
+        "data_type": "text",
+        "ordinal_position": 110
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_carry_cost_pct_111",
+        "data_type": "text",
+        "ordinal_position": 111
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_setup_cost_int_112",
+        "data_type": "text",
+        "ordinal_position": 112
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_setup_cost_decimal_113",
+        "data_type": "text",
+        "ordinal_position": 113
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_shrink_pct_114",
+        "data_type": "text",
+        "ordinal_position": 114
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_avg_order_qty_int_115",
+        "data_type": "text",
+        "ordinal_position": 115
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_avg_order_qty_decimal_116",
+        "data_type": "text",
+        "ordinal_position": 116
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_117",
+        "data_type": "text",
+        "ordinal_position": 117
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_118",
+        "data_type": "text",
+        "ordinal_position": 118
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_queue_lead_time_119",
+        "data_type": "text",
+        "ordinal_position": 119
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_queue_lead_time_120",
+        "data_type": "text",
+        "ordinal_position": 120
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_setup_lead_time_121",
+        "data_type": "text",
+        "ordinal_position": 121
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_setup_lead_time_122",
+        "data_type": "text",
+        "ordinal_position": 122
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_run_lead_time_123",
+        "data_type": "text",
+        "ordinal_position": 123
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_run_lead_time_124",
+        "data_type": "text",
+        "ordinal_position": 124
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mfg_lt_ovr_125",
+        "data_type": "text",
+        "ordinal_position": 125
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mfg_planner_time_126",
+        "data_type": "text",
+        "ordinal_position": 126
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mfg_release_time_127",
+        "data_type": "text",
+        "ordinal_position": 127
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mfg_pick_time_128",
+        "data_type": "text",
+        "ordinal_position": 128
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_129",
+        "data_type": "text",
+        "ordinal_position": 129
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_130",
+        "data_type": "text",
+        "ordinal_position": 130
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_131",
+        "data_type": "text",
+        "ordinal_position": 131
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_132",
+        "data_type": "text",
+        "ordinal_position": 132
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_133",
+        "data_type": "text",
+        "ordinal_position": 133
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_134",
+        "data_type": "text",
+        "ordinal_position": 134
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_135",
+        "data_type": "text",
+        "ordinal_position": 135
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_136",
+        "data_type": "text",
+        "ordinal_position": 136
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_137",
+        "data_type": "text",
+        "ordinal_position": 137
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_138",
+        "data_type": "text",
+        "ordinal_position": 138
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_139",
+        "data_type": "text",
+        "ordinal_position": 139
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_140",
+        "data_type": "text",
+        "ordinal_position": 140
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_141",
+        "data_type": "text",
+        "ordinal_position": 141
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_142",
+        "data_type": "text",
+        "ordinal_position": 142
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_143",
+        "data_type": "text",
+        "ordinal_position": 143
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_144",
+        "data_type": "text",
+        "ordinal_position": 144
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_145",
+        "data_type": "text",
+        "ordinal_position": 145
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_146",
+        "data_type": "text",
+        "ordinal_position": 146
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_147",
+        "data_type": "text",
+        "ordinal_position": 147
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_148",
+        "data_type": "text",
+        "ordinal_position": 148
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_149",
+        "data_type": "text",
+        "ordinal_position": 149
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_150",
+        "data_type": "text",
+        "ordinal_position": 150
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_151",
+        "data_type": "text",
+        "ordinal_position": 151
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_152",
+        "data_type": "text",
+        "ordinal_position": 152
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_153",
+        "data_type": "text",
+        "ordinal_position": 153
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_154",
+        "data_type": "text",
+        "ordinal_position": 154
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_155",
+        "data_type": "text",
+        "ordinal_position": 155
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_156",
+        "data_type": "text",
+        "ordinal_position": 156
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_157",
+        "data_type": "text",
+        "ordinal_position": 157
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_158",
+        "data_type": "text",
+        "ordinal_position": 158
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_159",
+        "data_type": "text",
+        "ordinal_position": 159
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_160",
+        "data_type": "text",
+        "ordinal_position": 160
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_161",
+        "data_type": "text",
+        "ordinal_position": 161
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_162",
+        "data_type": "text",
+        "ordinal_position": 162
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_163",
+        "data_type": "text",
+        "ordinal_position": 163
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_164",
+        "data_type": "text",
+        "ordinal_position": 164
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_165",
+        "data_type": "text",
+        "ordinal_position": 165
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_166",
+        "data_type": "text",
+        "ordinal_position": 166
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_167",
+        "data_type": "text",
+        "ordinal_position": 167
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_168",
+        "data_type": "text",
+        "ordinal_position": 168
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_169",
+        "data_type": "text",
+        "ordinal_position": 169
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_170",
+        "data_type": "text",
+        "ordinal_position": 170
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_171",
+        "data_type": "text",
+        "ordinal_position": 171
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_172",
+        "data_type": "text",
+        "ordinal_position": 172
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_173",
+        "data_type": "text",
+        "ordinal_position": 173
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_174",
+        "data_type": "text",
+        "ordinal_position": 174
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_175",
+        "data_type": "text",
+        "ordinal_position": 175
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_176",
+        "data_type": "text",
+        "ordinal_position": 176
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_177",
+        "data_type": "text",
+        "ordinal_position": 177
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_178",
+        "data_type": "text",
+        "ordinal_position": 178
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_179",
+        "data_type": "text",
+        "ordinal_position": 179
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_180",
+        "data_type": "text",
+        "ordinal_position": 180
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_181",
+        "data_type": "text",
+        "ordinal_position": 181
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_original_part_nbr_182",
+        "data_type": "text",
+        "ordinal_position": 182
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pur_planner_time_183",
+        "data_type": "text",
+        "ordinal_position": 183
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pur_buyer_time_184",
+        "data_type": "text",
+        "ordinal_position": 184
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pur_vendor_time_185",
+        "data_type": "text",
+        "ordinal_position": 185
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pur_recv_time_186",
+        "data_type": "text",
+        "ordinal_position": 186
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pur_insp_time_187",
+        "data_type": "text",
+        "ordinal_position": 187
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_188",
+        "data_type": "text",
+        "ordinal_position": 188
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_189",
+        "data_type": "text",
+        "ordinal_position": 189
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_190",
+        "data_type": "text",
+        "ordinal_position": 190
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_191",
+        "data_type": "text",
+        "ordinal_position": 191
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_192",
+        "data_type": "text",
+        "ordinal_position": 192
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_inspection_code_193",
+        "data_type": "text",
+        "ordinal_position": 193
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_194",
+        "data_type": "text",
+        "ordinal_position": 194
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pl_loc_id_195",
+        "data_type": "text",
+        "ordinal_position": 195
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pl_qty_code_1_196",
+        "data_type": "text",
+        "ordinal_position": 196
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_197",
+        "data_type": "text",
+        "ordinal_position": 197
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_198",
+        "data_type": "text",
+        "ordinal_position": 198
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_199",
+        "data_type": "text",
+        "ordinal_position": 199
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_200",
+        "data_type": "text",
+        "ordinal_position": 200
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_201",
+        "data_type": "text",
+        "ordinal_position": 201
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_202",
+        "data_type": "text",
+        "ordinal_position": 202
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_203",
+        "data_type": "text",
+        "ordinal_position": 203
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_204",
+        "data_type": "text",
+        "ordinal_position": 204
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_205",
+        "data_type": "text",
+        "ordinal_position": 205
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_206",
+        "data_type": "text",
+        "ordinal_position": 206
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mto_ctl_code_207",
+        "data_type": "text",
+        "ordinal_position": 207
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_208",
+        "data_type": "text",
+        "ordinal_position": 208
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_209",
+        "data_type": "text",
+        "ordinal_position": 209
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_210",
+        "data_type": "text",
+        "ordinal_position": 210
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_211",
+        "data_type": "text",
+        "ordinal_position": 211
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_212",
+        "data_type": "text",
+        "ordinal_position": 212
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_213",
+        "data_type": "text",
+        "ordinal_position": 213
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_part_component_ind_214",
+        "data_type": "text",
+        "ordinal_position": 214
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_215",
+        "data_type": "text",
+        "ordinal_position": 215
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_216",
+        "data_type": "text",
+        "ordinal_position": 216
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_217",
+        "data_type": "text",
+        "ordinal_position": 217
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_218",
+        "data_type": "text",
+        "ordinal_position": 218
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_219",
+        "data_type": "text",
+        "ordinal_position": 219
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_220",
+        "data_type": "text",
+        "ordinal_position": 220
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_rtg_eff_cntl_code_221",
+        "data_type": "text",
+        "ordinal_position": 221
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_222",
+        "data_type": "text",
+        "ordinal_position": 222
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_223",
+        "data_type": "text",
+        "ordinal_position": 223
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_224",
+        "data_type": "text",
+        "ordinal_position": 224
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_225",
+        "data_type": "text",
+        "ordinal_position": 225
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_226",
+        "data_type": "text",
+        "ordinal_position": 226
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_toler_peso_227",
+        "data_type": "text",
+        "ordinal_position": 227
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_228",
+        "data_type": "text",
+        "ordinal_position": 228
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_unidad_div_centro_229",
+        "data_type": "text",
+        "ordinal_position": 229
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_230",
+        "data_type": "text",
+        "ordinal_position": 230
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_clase_seguridad_231",
+        "data_type": "text",
+        "ordinal_position": 231
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_232",
+        "data_type": "text",
+        "ordinal_position": 232
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_unidad_med_dim_233",
+        "data_type": "text",
+        "ordinal_position": 233
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_espesor_std_234",
+        "data_type": "text",
+        "ordinal_position": 234
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_largo_std_235",
+        "data_type": "text",
+        "ordinal_position": 235
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_largo_std_236",
+        "data_type": "text",
+        "ordinal_position": 236
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ancho_std_237",
+        "data_type": "text",
+        "ordinal_position": 237
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ancho_std_238",
+        "data_type": "text",
+        "ordinal_position": 238
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cod_ruta_estandar_239",
+        "data_type": "text",
+        "ordinal_position": 239
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_intercam_rempl_240",
+        "data_type": "text",
+        "ordinal_position": 240
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_etiquetable_241",
+        "data_type": "text",
+        "ordinal_position": 241
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_242",
+        "data_type": "text",
+        "ordinal_position": 242
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cntl_critico_243",
+        "data_type": "text",
+        "ordinal_position": 243
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_244",
+        "data_type": "text",
+        "ordinal_position": 244
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_prog_245",
+        "data_type": "text",
+        "ordinal_position": 245
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_elem_final_246",
+        "data_type": "text",
+        "ordinal_position": 246
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_247",
+        "data_type": "text",
+        "ordinal_position": 247
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_248",
+        "data_type": "text",
+        "ordinal_position": 248
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_simetrico_249",
+        "data_type": "text",
+        "ordinal_position": 249
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cod_simetrica_250",
+        "data_type": "text",
+        "ordinal_position": 250
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cod_tecnol_251",
+        "data_type": "text",
+        "ordinal_position": 251
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_252",
+        "data_type": "text",
+        "ordinal_position": 252
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_espec_tecnol_253",
+        "data_type": "text",
+        "ordinal_position": 253
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_weight_254",
+        "data_type": "text",
+        "ordinal_position": 254
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_weight_255",
+        "data_type": "text",
+        "ordinal_position": 255
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_peso_calc_diseno_256",
+        "data_type": "text",
+        "ordinal_position": 256
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_peso_calc_diseno_257",
+        "data_type": "text",
+        "ordinal_position": 257
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_peso_calc_fabric_258",
+        "data_type": "text",
+        "ordinal_position": 258
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_peso_calc_fabric_259",
+        "data_type": "text",
+        "ordinal_position": 259
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_fecha_peso_calc_diseno_260",
+        "data_type": "text",
+        "ordinal_position": 260
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_fecha_peso_calc_fabric_261",
+        "data_type": "text",
+        "ordinal_position": 261
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_tipo_eff_prod_262",
+        "data_type": "text",
+        "ordinal_position": 262
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_rtg_eff_tipo_263",
+        "data_type": "text",
+        "ordinal_position": 263
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_tope_cadena_264",
+        "data_type": "text",
+        "ordinal_position": 264
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_identificable_265",
+        "data_type": "text",
+        "ordinal_position": 265
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_266",
+        "data_type": "text",
+        "ordinal_position": 266
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_267",
+        "data_type": "text",
+        "ordinal_position": 267
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_llc_conf_268",
+        "data_type": "text",
+        "ordinal_position": 268
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_origen_peso_dis_269",
+        "data_type": "text",
+        "ordinal_position": 269
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_zona_avion_270",
+        "data_type": "text",
+        "ordinal_position": 270
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_271",
+        "data_type": "text",
+        "ordinal_position": 271
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_272",
+        "data_type": "text",
+        "ordinal_position": 272
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_273",
+        "data_type": "text",
+        "ordinal_position": 273
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_seriable_postv_274",
+        "data_type": "text",
+        "ordinal_position": 274
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_275",
+        "data_type": "text",
+        "ordinal_position": 275
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_276",
+        "data_type": "text",
+        "ordinal_position": 276
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_277",
+        "data_type": "text",
+        "ordinal_position": 277
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_278",
+        "data_type": "text",
+        "ordinal_position": 278
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_279",
+        "data_type": "text",
+        "ordinal_position": 279
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_280",
+        "data_type": "text",
+        "ordinal_position": 280
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_281",
+        "data_type": "text",
+        "ordinal_position": 281
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_282",
+        "data_type": "text",
+        "ordinal_position": 282
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_283",
+        "data_type": "text",
+        "ordinal_position": 283
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_fractura_critica_284",
+        "data_type": "text",
+        "ordinal_position": 284
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_zona_ps_285",
+        "data_type": "text",
+        "ordinal_position": 285
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mant_critico_286",
+        "data_type": "text",
+        "ordinal_position": 286
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_tipo_val_287",
+        "data_type": "text",
+        "ordinal_position": 287
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_repuestos_288",
+        "data_type": "text",
+        "ordinal_position": 288
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_289",
+        "data_type": "text",
+        "ordinal_position": 289
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_290",
+        "data_type": "text",
+        "ordinal_position": 290
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_291",
+        "data_type": "text",
+        "ordinal_position": 291
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_292",
+        "data_type": "text",
+        "ordinal_position": 292
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_accesorio_efa_293",
+        "data_type": "text",
+        "ordinal_position": 293
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_294",
+        "data_type": "text",
+        "ordinal_position": 294
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_295",
+        "data_type": "text",
+        "ordinal_position": 295
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acabado_296",
+        "data_type": "text",
+        "ordinal_position": 296
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_especif_mat_297",
+        "data_type": "text",
+        "ordinal_position": 297
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_bas_com_ver_298",
+        "data_type": "text",
+        "ordinal_position": 298
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_299",
+        "data_type": "text",
+        "ordinal_position": 299
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_300",
+        "data_type": "text",
+        "ordinal_position": 300
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_modelo_301",
+        "data_type": "text",
+        "ordinal_position": 301
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_proveedor_302",
+        "data_type": "text",
+        "ordinal_position": 302
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_303",
+        "data_type": "text",
+        "ordinal_position": 303
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_pn_proveedor_304",
+        "data_type": "text",
+        "ordinal_position": 304
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_nor_ult_rev_305",
+        "data_type": "text",
+        "ordinal_position": 305
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_nor_fec_ult_rev_306",
+        "data_type": "text",
+        "ordinal_position": 306
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_307",
+        "data_type": "text",
+        "ordinal_position": 307
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_308",
+        "data_type": "text",
+        "ordinal_position": 308
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_309",
+        "data_type": "text",
+        "ordinal_position": 309
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_nor_sust_a_310",
+        "data_type": "text",
+        "ordinal_position": 310
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_nor_sust_por_311",
+        "data_type": "text",
+        "ordinal_position": 311
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_312",
+        "data_type": "text",
+        "ordinal_position": 312
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_313",
+        "data_type": "text",
+        "ordinal_position": 313
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_314",
+        "data_type": "text",
+        "ordinal_position": 314
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_315",
+        "data_type": "text",
+        "ordinal_position": 315
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_fecha_lanzamiento_316",
+        "data_type": "text",
+        "ordinal_position": 316
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_317",
+        "data_type": "text",
+        "ordinal_position": 317
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_318",
+        "data_type": "text",
+        "ordinal_position": 318
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_319",
+        "data_type": "text",
+        "ordinal_position": 319
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_320",
+        "data_type": "text",
+        "ordinal_position": 320
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_321",
+        "data_type": "text",
+        "ordinal_position": 321
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_centro_responsable_322",
+        "data_type": "text",
+        "ordinal_position": 322
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_323",
+        "data_type": "text",
+        "ordinal_position": 323
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pn_simetrica_324",
+        "data_type": "text",
+        "ordinal_position": 324
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_325",
+        "data_type": "text",
+        "ordinal_position": 325
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_primer_art_326",
+        "data_type": "text",
+        "ordinal_position": 326
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_estado_insp_primer_art_327",
+        "data_type": "text",
+        "ordinal_position": 327
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_328",
+        "data_type": "text",
+        "ordinal_position": 328
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_329",
+        "data_type": "text",
+        "ordinal_position": 329
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_330",
+        "data_type": "text",
+        "ordinal_position": 330
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_331",
+        "data_type": "text",
+        "ordinal_position": 331
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_332",
+        "data_type": "text",
+        "ordinal_position": 332
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_333",
+        "data_type": "text",
+        "ordinal_position": 333
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_334",
+        "data_type": "text",
+        "ordinal_position": 334
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_335",
+        "data_type": "text",
+        "ordinal_position": 335
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_cod_protec_336",
+        "data_type": "text",
+        "ordinal_position": 336
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_tabla_prot_337",
+        "data_type": "text",
+        "ordinal_position": 337
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_zona_plano_338",
+        "data_type": "text",
+        "ordinal_position": 338
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_339",
+        "data_type": "text",
+        "ordinal_position": 339
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_div_centro_340",
+        "data_type": "text",
+        "ordinal_position": 340
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_div_centro_341",
+        "data_type": "text",
+        "ordinal_position": 341
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_342",
+        "data_type": "text",
+        "ordinal_position": 342
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_343",
+        "data_type": "text",
+        "ordinal_position": 343
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_eff_cntl_code_conf_344",
+        "data_type": "text",
+        "ordinal_position": 344
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_tope_cadena_conf_345",
+        "data_type": "text",
+        "ordinal_position": 345
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_346",
+        "data_type": "text",
+        "ordinal_position": 346
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_347",
+        "data_type": "text",
+        "ordinal_position": 347
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_distintivo_348",
+        "data_type": "text",
+        "ordinal_position": 348
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_dist_simetrica_349",
+        "data_type": "text",
+        "ordinal_position": 349
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_tipo_modulo_350",
+        "data_type": "text",
+        "ordinal_position": 350
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pro_ef_351",
+        "data_type": "text",
+        "ordinal_position": 351
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_mod_352",
+        "data_type": "text",
+        "ordinal_position": 352
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_contador_rev_mod_353",
+        "data_type": "text",
+        "ordinal_position": 353
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_peso_definitivo_354",
+        "data_type": "text",
+        "ordinal_position": 354
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_dimensiones_355",
+        "data_type": "text",
+        "ordinal_position": 355
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_certificado_356",
+        "data_type": "text",
+        "ordinal_position": 356
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_cod_certif_357",
+        "data_type": "text",
+        "ordinal_position": 357
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_estado_doc_358",
+        "data_type": "text",
+        "ordinal_position": 358
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_num_pla_pro_359",
+        "data_type": "text",
+        "ordinal_position": 359
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_mtbf_360",
+        "data_type": "text",
+        "ordinal_position": 360
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_categ_eq_361",
+        "data_type": "text",
+        "ordinal_position": 361
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_362",
+        "data_type": "text",
+        "ordinal_position": 362
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_rev_esp_363",
+        "data_type": "text",
+        "ordinal_position": 363
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_fecha_rev_esp_364",
+        "data_type": "text",
+        "ordinal_position": 364
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_ind_espec_365",
+        "data_type": "text",
+        "ordinal_position": 365
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_acpn_tipo_acces_366",
+        "data_type": "text",
+        "ordinal_position": 366
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_367",
+        "data_type": "text",
+        "ordinal_position": 367
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_368",
+        "data_type": "text",
+        "ordinal_position": 368
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_369",
+        "data_type": "text",
+        "ordinal_position": 369
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_370",
+        "data_type": "text",
+        "ordinal_position": 370
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_371",
+        "data_type": "text",
+        "ordinal_position": 371
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_372",
+        "data_type": "text",
+        "ordinal_position": 372
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_373",
+        "data_type": "text",
+        "ordinal_position": 373
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_374",
+        "data_type": "text",
+        "ordinal_position": 374
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_375",
+        "data_type": "text",
+        "ordinal_position": 375
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_376",
+        "data_type": "text",
+        "ordinal_position": 376
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_buyer_377",
+        "data_type": "text",
+        "ordinal_position": 377
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_subcontratista_378",
+        "data_type": "text",
+        "ordinal_position": 378
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_379",
+        "data_type": "text",
+        "ordinal_position": 379
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_380",
+        "data_type": "text",
+        "ordinal_position": 380
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_381",
+        "data_type": "text",
+        "ordinal_position": 381
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_382",
+        "data_type": "text",
+        "ordinal_position": 382
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_min_reqn_days_383",
+        "data_type": "text",
+        "ordinal_position": 383
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_384",
+        "data_type": "text",
+        "ordinal_position": 384
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_385",
+        "data_type": "text",
+        "ordinal_position": 385
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_386",
+        "data_type": "text",
+        "ordinal_position": 386
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_387",
+        "data_type": "text",
+        "ordinal_position": 387
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_388",
+        "data_type": "text",
+        "ordinal_position": 388
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_389",
+        "data_type": "text",
+        "ordinal_position": 389
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_390",
+        "data_type": "text",
+        "ordinal_position": 390
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_391",
+        "data_type": "text",
+        "ordinal_position": 391
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_392",
+        "data_type": "text",
+        "ordinal_position": 392
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_393",
+        "data_type": "text",
+        "ordinal_position": 393
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_394",
+        "data_type": "text",
+        "ordinal_position": 394
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_395",
+        "data_type": "text",
+        "ordinal_position": 395
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_396",
+        "data_type": "text",
+        "ordinal_position": 396
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_397",
+        "data_type": "text",
+        "ordinal_position": 397
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_398",
+        "data_type": "text",
+        "ordinal_position": 398
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_399",
+        "data_type": "text",
+        "ordinal_position": 399
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_400",
+        "data_type": "text",
+        "ordinal_position": 400
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_401",
+        "data_type": "text",
+        "ordinal_position": 401
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_402",
+        "data_type": "text",
+        "ordinal_position": 402
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_sustituye_a_403",
+        "data_type": "text",
+        "ordinal_position": 403
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_sustituido_por_404",
+        "data_type": "text",
+        "ordinal_position": 404
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_repuesto_config_405",
+        "data_type": "text",
+        "ordinal_position": 405
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_razon_seleccion_406",
+        "data_type": "text",
+        "ordinal_position": 406
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_codigo_icy_407",
+        "data_type": "text",
+        "ordinal_position": 407
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_replan_parents_ind_408",
+        "data_type": "text",
+        "ordinal_position": 408
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_409",
+        "data_type": "text",
+        "ordinal_position": 409
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_410",
+        "data_type": "text",
+        "ordinal_position": 410
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_411",
+        "data_type": "text",
+        "ordinal_position": 411
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_412",
+        "data_type": "text",
+        "ordinal_position": 412
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_413",
+        "data_type": "text",
+        "ordinal_position": 413
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_414",
+        "data_type": "text",
+        "ordinal_position": 414
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_415",
+        "data_type": "text",
+        "ordinal_position": 415
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_416",
+        "data_type": "text",
+        "ordinal_position": 416
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_417",
+        "data_type": "text",
+        "ordinal_position": 417
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_418",
+        "data_type": "text",
+        "ordinal_position": 418
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_componente_kit_419",
+        "data_type": "text",
+        "ordinal_position": 419
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_420",
+        "data_type": "text",
+        "ordinal_position": 420
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_421",
+        "data_type": "text",
+        "ordinal_position": 421
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_lote_ind_422",
+        "data_type": "text",
+        "ordinal_position": 422
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_componente_en_falta_ind_423",
+        "data_type": "text",
+        "ordinal_position": 423
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_num_ordenes_en_falta_424",
+        "data_type": "text",
+        "ordinal_position": 424
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_425",
+        "data_type": "text",
+        "ordinal_position": 425
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_426",
+        "data_type": "text",
+        "ordinal_position": 426
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pieza_kit_427",
+        "data_type": "text",
+        "ordinal_position": 427
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_tipo_kit_428",
+        "data_type": "text",
+        "ordinal_position": 428
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_429",
+        "data_type": "text",
+        "ordinal_position": 429
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_430",
+        "data_type": "text",
+        "ordinal_position": 430
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_431",
+        "data_type": "text",
+        "ordinal_position": 431
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_432",
+        "data_type": "text",
+        "ordinal_position": 432
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_433",
+        "data_type": "text",
+        "ordinal_position": 433
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_434",
+        "data_type": "text",
+        "ordinal_position": 434
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_435",
+        "data_type": "text",
+        "ordinal_position": 435
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_436",
+        "data_type": "text",
+        "ordinal_position": 436
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_437",
+        "data_type": "text",
+        "ordinal_position": 437
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_438",
+        "data_type": "text",
+        "ordinal_position": 438
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_439",
+        "data_type": "text",
+        "ordinal_position": 439
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_440",
+        "data_type": "text",
+        "ordinal_position": 440
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_441",
+        "data_type": "text",
+        "ordinal_position": 441
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_442",
+        "data_type": "text",
+        "ordinal_position": 442
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_443",
+        "data_type": "text",
+        "ordinal_position": 443
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_444",
+        "data_type": "text",
+        "ordinal_position": 444
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_445",
+        "data_type": "text",
+        "ordinal_position": 445
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_446",
+        "data_type": "text",
+        "ordinal_position": 446
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_447",
+        "data_type": "text",
+        "ordinal_position": 447
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_448",
+        "data_type": "text",
+        "ordinal_position": 448
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_449",
+        "data_type": "text",
+        "ordinal_position": 449
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_450",
+        "data_type": "text",
+        "ordinal_position": 450
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_451",
+        "data_type": "text",
+        "ordinal_position": 451
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_452",
+        "data_type": "text",
+        "ordinal_position": 452
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_453",
+        "data_type": "text",
+        "ordinal_position": 453
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_454",
+        "data_type": "text",
+        "ordinal_position": 454
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_documentacion_455",
+        "data_type": "text",
+        "ordinal_position": 455
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_456",
+        "data_type": "text",
+        "ordinal_position": 456
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_457",
+        "data_type": "text",
+        "ordinal_position": 457
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_458",
+        "data_type": "text",
+        "ordinal_position": 458
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_459",
+        "data_type": "text",
+        "ordinal_position": 459
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_460",
+        "data_type": "text",
+        "ordinal_position": 460
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_factory_acc_461",
+        "data_type": "text",
+        "ordinal_position": 461
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_element_trans_ind_462",
+        "data_type": "text",
+        "ordinal_position": 462
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_factory_buy_463",
+        "data_type": "text",
+        "ordinal_position": 463
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_stilo_464",
+        "data_type": "text",
+        "ordinal_position": 464
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ind_politica_465",
+        "data_type": "text",
+        "ordinal_position": 465
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_grupo_politica_466",
+        "data_type": "text",
+        "ordinal_position": 466
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_pur_trans_time_467",
+        "data_type": "text",
+        "ordinal_position": 467
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_est_insp_primer_art_rt_alt_468",
+        "data_type": "text",
+        "ordinal_position": 468
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_familia_her_469",
+        "data_type": "text",
+        "ordinal_position": 469
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_subfamilia_her_470",
+        "data_type": "text",
+        "ordinal_position": 470
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_vida_her_471",
+        "data_type": "text",
+        "ordinal_position": 471
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ind_control_coste_472",
+        "data_type": "text",
+        "ordinal_position": 472
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_codigo_inter_ata_473",
+        "data_type": "text",
+        "ordinal_position": 473
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_474",
+        "data_type": "text",
+        "ordinal_position": 474
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_475",
+        "data_type": "text",
+        "ordinal_position": 475
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_476",
+        "data_type": "text",
+        "ordinal_position": 476
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_477",
+        "data_type": "text",
+        "ordinal_position": 477
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_478",
+        "data_type": "text",
+        "ordinal_position": 478
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ind_compra_479",
+        "data_type": "text",
+        "ordinal_position": 479
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_480",
+        "data_type": "text",
+        "ordinal_position": 480
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_last_mov_date_481",
+        "data_type": "text",
+        "ordinal_position": 481
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_482",
+        "data_type": "text",
+        "ordinal_position": 482
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_norma_color_483",
+        "data_type": "text",
+        "ordinal_position": 483
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_especif_mat_25_484",
+        "data_type": "text",
+        "ordinal_position": 484
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_ind_etr_485",
+        "data_type": "text",
+        "ordinal_position": 485
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_486",
+        "data_type": "text",
+        "ordinal_position": 486
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_487",
+        "data_type": "text",
+        "ordinal_position": 487
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_488",
+        "data_type": "text",
+        "ordinal_position": 488
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_489",
+        "data_type": "text",
+        "ordinal_position": 489
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_490",
+        "data_type": "text",
+        "ordinal_position": 490
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_491",
+        "data_type": "text",
+        "ordinal_position": 491
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_492",
+        "data_type": "text",
+        "ordinal_position": 492
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_493",
+        "data_type": "text",
+        "ordinal_position": 493
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_sustituida_494",
+        "data_type": "text",
+        "ordinal_position": 494
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_495",
+        "data_type": "text",
+        "ordinal_position": 495
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_agotar_exi_496",
+        "data_type": "text",
+        "ordinal_position": 496
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_497",
+        "data_type": "text",
+        "ordinal_position": 497
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_498",
+        "data_type": "text",
+        "ordinal_position": 498
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_499",
+        "data_type": "text",
+        "ordinal_position": 499
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_500",
+        "data_type": "text",
+        "ordinal_position": 500
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_seriable_man_501",
+        "data_type": "text",
+        "ordinal_position": 501
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_seriable_man_502",
+        "data_type": "text",
+        "ordinal_position": 502
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_agrup_her_503",
+        "data_type": "text",
+        "ordinal_position": 503
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_devolucion_her_504",
+        "data_type": "text",
+        "ordinal_position": 504
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_505",
+        "data_type": "text",
+        "ordinal_position": 505
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_506",
+        "data_type": "text",
+        "ordinal_position": 506
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_507",
+        "data_type": "text",
+        "ordinal_position": 507
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_508",
+        "data_type": "text",
+        "ordinal_position": 508
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_509",
+        "data_type": "text",
+        "ordinal_position": 509
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_510",
+        "data_type": "text",
+        "ordinal_position": 510
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_511",
+        "data_type": "text",
+        "ordinal_position": 511
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_512",
+        "data_type": "text",
+        "ordinal_position": 512
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_513",
+        "data_type": "text",
+        "ordinal_position": 513
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_514",
+        "data_type": "text",
+        "ordinal_position": 514
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "a0_515",
+        "data_type": "text",
+        "ordinal_position": 515
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "pm_seriable_516",
+        "data_type": "text",
+        "ordinal_position": 516
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "partmast",
+        "column_name": "blank_517",
+        "data_type": "text",
+        "ordinal_position": 517
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "z7_secuencia_casa_1",
+        "data_type": "text",
+        "ordinal_position": 1
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "z7_version_2",
+        "data_type": "text",
+        "ordinal_position": 2
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "z7_version_secuencia_3",
+        "data_type": "text",
+        "ordinal_position": 3
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "z7_secuencia_pul_4",
+        "data_type": "text",
+        "ordinal_position": 4
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "z7_version_pul_5",
+        "data_type": "text",
+        "ordinal_position": 5
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "z7_verison_secuencia_pul_6",
+        "data_type": "text",
+        "ordinal_position": 6
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "z7_standar_ai_7",
+        "data_type": "text",
+        "ordinal_position": 7
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "z7_standar_ai_pul_8",
+        "data_type": "text",
+        "ordinal_position": 8
+    },
+    {
+        "table_schema": "sprint_ng",
+        "table_name": "versecue",
+        "column_name": "blank_9",
+        "data_type": "text",
+        "ordinal_position": 9
+    }
+]

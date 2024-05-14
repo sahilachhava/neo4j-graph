@@ -1,0 +1,184 @@
+{
+    "tables": {
+        "T36211": [
+            "REL"
+        ],
+        "T36211_PART": [
+            "RELR"
+        ],
+        "GG00_O_ADAPDS": [
+            "SUB_TYPE",
+            "INTERNALISSUE",
+            "NATCO",
+            "SUBATA",
+            "ATA",
+            "ADAPDSNUMBER",
+            "BUSINESSREFERENCE",
+            "IS_CURRENT_PDM"
+        ],
+        "WRK_GG00_ALL_PART": [
+            "IS_CURRENT_PDM"
+        ],
+        "WRK_GG00_MAX_ALL_PART": [
+            "IS_CURRENT_PDM"
+        ]
+    },
+    "transforms": {
+        "TRANSFORMATION_93-1": {
+            "a96424b7ab5ec67d55ce26b5e8a1e616": "SUBSTR(REL, 1, 9)"
+        },
+        "TRANSFORMATION_413-3": {
+            "aa7bff56b9b566b39caa7e7aba931bbf": "CAST(GET_SUB_TYPE('ADAPDS', T36211.RELR || T36211.RELS, 'GILDA') AS VARCHAR(20))",
+            "d464e90a953d4764a0cbf5c19d5961df": "CAST(BUILD_INTERNAL_ISSUE(T36211.RELR || T36211.RELS, GETSORTABLEISSUE(CAST('___' AS VARCHAR(3)))) AS VARCHAR(200))",
+            "bf649be14e0a638dbeac0beb4f814a6c": "CAST(GET_NATCO(T36211.RELR || T36211.RELS) AS VARCHAR(10))",
+            "1c614bc6a4c9da3640aa01695a0ca317": "SUBSTR(T36211.RELR, 4, 1)",
+            "3a5606d1cf1dc8a155b7ea154d740bc9": "SUBSTR(T36211.RELR, 2, 2)",
+            "20362f61d176817713c744997ec93da9": "T36211.RELR || T36211.RELS",
+            "f7408deea0fdf1052e2ce15da57977b5": "T36211.RELR || T36211.RELS || '_' || CAST('___' AS VARCHAR(3))",
+            "aaa8841533bb00811edad8e5c6110481": "IS_CURRENT_PDM"
+        },
+        "TRANSFORMATION_413-2": {
+            "aa7bff56b9b566b39caa7e7aba931bbf": "CAST(GET_SUB_TYPE('ADAPDS', T36211.RELR || T36211.RELS, 'GILDA') AS VARCHAR(20))",
+            "f061c5f2fc3110f0fccdc9fd16bcc77e": "CAST(BUILD_INTERNAL_ISSUE(T36211.RELR || T36211.RELS, GETSORTABLEISSUE(T36212.RELIDI)) AS VARCHAR(200))",
+            "bf649be14e0a638dbeac0beb4f814a6c": "CAST(GET_NATCO(T36211.RELR || T36211.RELS) AS VARCHAR(10))",
+            "1c614bc6a4c9da3640aa01695a0ca317": "SUBSTR(T36211.RELR, 4, 1)",
+            "3a5606d1cf1dc8a155b7ea154d740bc9": "SUBSTR(T36211.RELR, 2, 2)",
+            "20362f61d176817713c744997ec93da9": "T36211.RELR || T36211.RELS",
+            "aaa8841533bb00811edad8e5c6110481": "IS_CURRENT_PDM"
+        },
+        "TRANSFORMATION_343-9": {
+            "797785ce8535d741679b2fda6db41a2e": "GET_REUSE(T36211.RELR || T36211.RELS, 'NATCO', 'GILDA')"
+        },
+        "TRANSFORMATION_400-1": {
+            "416f610a1c510eb5a42eb3e0091de906": "MAX(IS_CURRENT_PDM)"
+        },
+        "TRANSFORMATION_343-10": {
+            "11d51160eea0d09adf9cd9fc8d5d09c8": "GET_REUSE(RELR || RELS, 'NATCO', 'GILDA')"
+        },
+        "TRANSFORMATION_343-11": {
+            "797785ce8535d741679b2fda6db41a2e": "GET_REUSE(T36211.RELR || T36211.RELS, 'NATCO', 'GILDA')"
+        }
+    },
+    "flows": [
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-3:f7408deea0fdf1052e2ce15da57977b5"
+        },
+        {
+            "TRANSFORMATION_343-10:11d51160eea0d09adf9cd9fc8d5d09c8": "WRK_GG00_ALL_PART:WRK_GG00_ALL_PART.IS_CURRENT_PDM"
+        },
+        {
+            "TRANSFORMATION_413-3:20362f61d176817713c744997ec93da9": "GG00_O_ADAPDS:GG00_O_ADAPDS.ADAPDSNUMBER"
+        },
+        {
+            "WRK_GG00_MAX_ALL_PART:WRK_GG00_MAX_ALL_PART.IS_CURRENT_PDM": "TRANSFORMATION_413-2:aaa8841533bb00811edad8e5c6110481"
+        },
+        {
+            "TRANSFORMATION_413-2:f061c5f2fc3110f0fccdc9fd16bcc77e": "GG00_O_ADAPDS:GG00_O_ADAPDS.INTERNALISSUE"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-2:bf649be14e0a638dbeac0beb4f814a6c"
+        },
+        {
+            "TRANSFORMATION_413-2:bf649be14e0a638dbeac0beb4f814a6c": "GG00_O_ADAPDS:GG00_O_ADAPDS.NATCO"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-2:f061c5f2fc3110f0fccdc9fd16bcc77e"
+        },
+        {
+            "TRANSFORMATION_413-2:20362f61d176817713c744997ec93da9": "GG00_O_ADAPDS:GG00_O_ADAPDS.ADAPDSNUMBER"
+        },
+        {
+            "TRANSFORMATION_400-1:416f610a1c510eb5a42eb3e0091de906": "WRK_GG00_MAX_ALL_PART:WRK_GG00_MAX_ALL_PART.IS_CURRENT_PDM"
+        },
+        {
+            "T36211:T36211.REL": "TRANSFORMATION_93-1:a96424b7ab5ec67d55ce26b5e8a1e616"
+        },
+        {
+            "WRK_GG00_ALL_PART:WRK_GG00_ALL_PART.IS_CURRENT_PDM": "TRANSFORMATION_400-1:416f610a1c510eb5a42eb3e0091de906"
+        },
+        {
+            "TRANSFORMATION_413-3:bf649be14e0a638dbeac0beb4f814a6c": "GG00_O_ADAPDS:GG00_O_ADAPDS.NATCO"
+        },
+        {
+            "TRANSFORMATION_343-9:797785ce8535d741679b2fda6db41a2e": "WRK_GG00_ALL_PART:WRK_GG00_ALL_PART.IS_CURRENT_PDM"
+        },
+        {
+            "TRANSFORMATION_413-2:1c614bc6a4c9da3640aa01695a0ca317": "GG00_O_ADAPDS:GG00_O_ADAPDS.SUBATA"
+        },
+        {
+            "TRANSFORMATION_93-1:a96424b7ab5ec67d55ce26b5e8a1e616": "T36211_PART:T36211_PART.RELR"
+        },
+        {
+            "TRANSFORMATION_413-2:aa7bff56b9b566b39caa7e7aba931bbf": "GG00_O_ADAPDS:GG00_O_ADAPDS.SUB_TYPE"
+        },
+        {
+            "TRANSFORMATION_413-3:d464e90a953d4764a0cbf5c19d5961df": "GG00_O_ADAPDS:GG00_O_ADAPDS.INTERNALISSUE"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-2:3a5606d1cf1dc8a155b7ea154d740bc9"
+        },
+        {
+            "TRANSFORMATION_413-3:f7408deea0fdf1052e2ce15da57977b5": "GG00_O_ADAPDS:GG00_O_ADAPDS.BUSINESSREFERENCE"
+        },
+        {
+            "TRANSFORMATION_413-3:aaa8841533bb00811edad8e5c6110481": "GG00_O_ADAPDS:GG00_O_ADAPDS.IS_CURRENT_PDM"
+        },
+        {
+            "TRANSFORMATION_413-2:aaa8841533bb00811edad8e5c6110481": "GG00_O_ADAPDS:GG00_O_ADAPDS.IS_CURRENT_PDM"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-2:aa7bff56b9b566b39caa7e7aba931bbf"
+        },
+        {
+            "TRANSFORMATION_343-11:797785ce8535d741679b2fda6db41a2e": "WRK_GG00_ALL_PART:WRK_GG00_ALL_PART.IS_CURRENT_PDM"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_343-10:11d51160eea0d09adf9cd9fc8d5d09c8"
+        },
+        {
+            "TRANSFORMATION_413-3:3a5606d1cf1dc8a155b7ea154d740bc9": "GG00_O_ADAPDS:GG00_O_ADAPDS.ATA"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-3:d464e90a953d4764a0cbf5c19d5961df"
+        },
+        {
+            "TRANSFORMATION_413-3:aa7bff56b9b566b39caa7e7aba931bbf": "GG00_O_ADAPDS:GG00_O_ADAPDS.SUB_TYPE"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_343-9:797785ce8535d741679b2fda6db41a2e"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-3:3a5606d1cf1dc8a155b7ea154d740bc9"
+        },
+        {
+            "TRANSFORMATION_413-3:1c614bc6a4c9da3640aa01695a0ca317": "GG00_O_ADAPDS:GG00_O_ADAPDS.SUBATA"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-2:20362f61d176817713c744997ec93da9"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-3:1c614bc6a4c9da3640aa01695a0ca317"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-2:1c614bc6a4c9da3640aa01695a0ca317"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-3:bf649be14e0a638dbeac0beb4f814a6c"
+        },
+        {
+            "WRK_GG00_MAX_ALL_PART:WRK_GG00_MAX_ALL_PART.IS_CURRENT_PDM": "TRANSFORMATION_413-3:aaa8841533bb00811edad8e5c6110481"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-3:aa7bff56b9b566b39caa7e7aba931bbf"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_343-11:797785ce8535d741679b2fda6db41a2e"
+        },
+        {
+            "TRANSFORMATION_413-2:3a5606d1cf1dc8a155b7ea154d740bc9": "GG00_O_ADAPDS:GG00_O_ADAPDS.ATA"
+        },
+        {
+            "T36211_PART:T36211_PART.RELR": "TRANSFORMATION_413-3:20362f61d176817713c744997ec93da9"
+        }
+    ]
+}
