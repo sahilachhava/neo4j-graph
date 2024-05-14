@@ -205,7 +205,7 @@ def process_query(entry):
         json.dump(parsed_transaction, fp=open(output_table_file_path, 'w'), indent=4)
         print(f"JSON file generated: {output_table_file_name}")  
 
-        makedirs(gv_files_folder, exist_ok=True)
+        # makedirs(gv_files_folder, exist_ok=True)
         # output_table_gv_file_name = output_file_name + ".gv"
         # output_table_gv_file_path = gv_files_folder / output_table_gv_file_name
         # generate_gv_file(parsed_transaction, output_table_gv_file_path)
